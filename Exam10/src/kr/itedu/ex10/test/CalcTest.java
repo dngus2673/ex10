@@ -16,9 +16,9 @@ class CalcTest {
 		int result = Calc.sum(n1, n2);
 		assertEquals(n1 + n2, result);
 		
-		n1 = 10;
-		n2 = 10;
-		result = Calc.sum(n1, n2);
+			n1 = 10;
+			n2 = 10;
+			result = Calc.sum(n1, n2);
 		assertEquals(n1 + n2, result);
 		
 			n1 = 17;
